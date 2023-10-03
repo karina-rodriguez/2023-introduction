@@ -1,5 +1,5 @@
 "file" "checksum" "built" "date"
-"CITATION.md" "c4b22e6f19d9fdabfadc1f1fa76690fc" "site/built/CITATION.md" "2023-10-03"
+"CITATION.md" "744d3ed649e2ec80702c67e0c7112833" "site/built/CITATION.md" "2023-10-03"
 "CODE_OF_CONDUCT.md" "c93c83c630db2fe2462240bf72552548" "site/built/CODE_OF_CONDUCT.md" "2023-10-03"
 "LICENSE.md" "b24ebbb41b14ca25cf6b8216dda83e5f" "site/built/LICENSE.md" "2023-10-03"
 "config.yaml" "616cf4f67e871fbeef1e456dc31d8d2f" "site/built/config.yaml" "2023-10-03"
